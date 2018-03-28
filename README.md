@@ -2,7 +2,7 @@
 React Team Lead. FinTech. Robo-advice wealth management platform. Full-stack team. New York-based client.
 
 http://careers.insart.com/
-## About Our Clien - AdvisorEngine:
+## About Our Client - AdvisorEngine:
 
 Wealth management platform for financial advisors and investors
 Used by dozens of thousands of financial advisors
