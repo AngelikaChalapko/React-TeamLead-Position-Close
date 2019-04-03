@@ -1,4 +1,4 @@
-# React-TeamLead-Position
+# React-TeamLead-Position-Сlose
 React Team Lead. FinTech. Robo-advice wealth management platform. Full-stack team. New York-based client.
 
 
